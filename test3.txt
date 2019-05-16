@@ -1,1 +1,3 @@
-Sergeevnaaaa
+<<<<<<< HEAD
+Sergeevna
+>>>>>>> newdev
